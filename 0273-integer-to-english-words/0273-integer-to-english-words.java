@@ -1,6 +1,6 @@
 public class Solution {
 
-    // Arrays to hold number words
+
     private static final String[] words0To19 = {
         "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
         "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen",
@@ -33,7 +33,7 @@ public class Solution {
         return result.trim();
     }
 
-    // Helper function to handle numbers below 1000
+
     private String numberToWordsBelow1000(int n) {
         if (n == 0) return "";
         else if (n < 20) return words0To19[n] + " ";
