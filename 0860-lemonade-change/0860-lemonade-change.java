@@ -1,11 +1,8 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        if(bills[0] != 5 ){
-            return false;
-        }
+
         int [ ] exchange = new int [2]; // [0] = 5, [1] = 10
-        exchange[0] = 1;
-        for(int i = 1; i < bills.length; i++){
+        for(int i = 0; i < bills.length; i++){
             if(bills[i] == 5){
                 exchange[0] += 1;
                 continue;
