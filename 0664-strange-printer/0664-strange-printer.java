@@ -16,7 +16,7 @@ class Solution {
     
                 for (int k = i; k < j; k++) {
                     dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k + 1][j]);
-                    //System.out.println("Jestem z FOR");
+                    //System.out.println("FOR");
                     //System.out.println("i = "+ i + " " + s.charAt(i) + " j = "+ j + " " + s.charAt(j));
                     //System.out.println(" k+1, j dp[" + (k + 1) + "][" + j + "] = " + dp[(k + 1)][j]);
                     //System.out.println(" i, k   dp[" + i + "][" + k + "] = " + dp[i][k]);
@@ -26,7 +26,7 @@ class Solution {
                 
                 if (s.charAt(i) == s.charAt(j)) {
                     dp[i][j] = Math.min(dp[i][j], dp[i][j - 1]);
-                    //System.out.println("Jestem z IF");
+                    //System.out.println("IF");
                     //System.out.println("i " + s.charAt(i) + " j " + s.charAt(j));
                     //System.out.println("dp[" + i + "][" + j + "] = " + dp[i][j]);
                 }
