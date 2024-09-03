@@ -23,13 +23,4 @@ class Solution {
 
         return sum;
     }
-        public static int splitDigits(int number) {
-        String numberString = Integer.toString(number);
-        int sum = 0;
-        for (char digitChar : numberString.toCharArray()) {
-            int digit = Character.getNumericValue(digitChar);
-            sum += digit;
-        }
-        return sum;
-    }
 }
