@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.HashSet;
-
 class Solution {
     public int minExtraChar(String s, String[] dictionary) {
         int n = s.length();
