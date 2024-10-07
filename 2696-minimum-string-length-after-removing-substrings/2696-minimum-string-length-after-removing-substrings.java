@@ -1,13 +1,13 @@
 class Solution {
     String subString = "AB|CD";
     public int minLength(String s) {
-        String res = remove(s,s.length());
+        String res = remove(s);
         return res.length(); 
     }
-    public String remove(String s, int length){
+    public String remove(String s){
         String curRes = s.replaceAll(subString, "");
-        if(curRes.length() != length){
-            curRes = remove(curRes, curRes.length());
+        if(curRes.contains("AB") || curRes.contains("CD")){
+            curRes = remove(curRes);
         }
         return curRes;    
     }
