@@ -6,11 +6,11 @@ class Solution {
             pq.add(i);
         }
         int i = 0;
-        while(i < k){
+        while(k > 0){
             double curPeek = pq.poll();
             res += (long) curPeek;
             pq.offer((int) Math.ceil(curPeek / 3));
-            i++;
+            k--;
         }
     return res;
     }
