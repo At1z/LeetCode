@@ -11,6 +11,9 @@ class Solution {
                 }
             }
             s = s + "1" + sb.reverse().toString();
+            if(s.length() >= k){
+                break;
+            }
         }
         return s.charAt(k - 1);
     }
