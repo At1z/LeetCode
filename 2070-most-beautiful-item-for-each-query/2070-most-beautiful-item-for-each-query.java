@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] maximumBeauty(int[][] items, int[] queries) {
         Arrays.sort(items, (a, b) -> Integer.compare(a[0], b[0]));
