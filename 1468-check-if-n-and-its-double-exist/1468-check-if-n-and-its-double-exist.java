@@ -1,24 +1,20 @@
 class Solution {
+
     public boolean checkIfExist(int[] arr) {
-        HashMap<Integer,Integer> doubles = new HashMap<>();
-        for(int num:arr){
-            if(doubles.containsKey(num*2)){
-                if(num == 0 && doubles.get(0) < 2){
-                    doubles.put(num,doubles.getOrDefault(num, 0)+1);
-                    continue;
-                }
+        Set<Integer> seen = new HashSet<>();
+
+        for (int num : arr) {
+            // Check if 2 * num or num / 2 exists in the set
+            if (
+                seen.contains(2 * num) ||
+                (num % 2 == 0 && seen.contains(num / 2))
+            ) {
                 return true;
             }
-            doubles.put(num,doubles.getOrDefault(num, 0)+1);
+            // Add the current number to the set
+            seen.add(num);
         }
-        for(int num:doubles.keySet()){
-            if(doubles.containsKey(num*2)){
-                if(num == 0 && doubles.get(0) < 2){
-                    continue;
-                }
-                return true;
-            }
-        }
+        // No valid pair found
         return false;
     }
 }
