@@ -11,7 +11,7 @@ class Solution {
             }
             doubles.put(num,doubles.getOrDefault(num, 0)+1);
         }
-        for(int num:doubles.keySet()){
+        for(int num:arr){
             if(doubles.containsKey(num*2)){
                 if(num == 0 && doubles.get(0) < 2){
                     continue;
