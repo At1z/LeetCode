@@ -17,6 +17,7 @@ LeetCode Solution
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/At1z/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/At1z/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -73,6 +74,7 @@ LeetCode Solution
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/At1z/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/At1z/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## String Matching
 |  |
 | ------- |
