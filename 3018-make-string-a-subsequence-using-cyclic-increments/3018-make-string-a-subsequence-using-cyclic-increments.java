@@ -8,7 +8,6 @@ class Solution {
             if (index == str2.length()) {
                 return true;
             }
-
             int temp = c1[i] - 'a';
             int target = c2[index] - 'a';
             if (temp == target || (temp + 1) % 26 == target) {
