@@ -22,6 +22,7 @@ LeetCode Solution
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/At1z/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
@@ -57,6 +58,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,10 +74,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -96,6 +100,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
 | ------- |
