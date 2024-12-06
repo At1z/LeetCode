@@ -13,7 +13,7 @@ class Solution {
                     maxSum -= i;
                     res += 1;
                 }else{
-                    return res;
+                    break;
                 }
             }
         }
