@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int maxTwoEvents(int[][] events) {
         Arrays.sort(events, (a, b) -> a[1] == b[1] ? a[0] - b[0] : a[1] - b[1]);
