@@ -8,10 +8,8 @@ class Solution {
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] % 2 == nums[i - 1] % 2) {
                 prefix[i] = prefix[i - 1] + 1;
-                System.out.println("if " + prefix[i]);
             } else {
                 prefix[i] = prefix[i - 1];
-                System.out.println("else " + prefix[i]);
             }
         }
 
