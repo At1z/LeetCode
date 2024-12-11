@@ -3,9 +3,8 @@ class Solution {
         Arrays.sort(nums);
         int max = 0;
         int left = 0;
-
         for (int right = 0; right < nums.length; right++) {
-            while (nums[right] - nums[left] > 2 * k) {
+            while (nums[right] - nums[left] - 2*k > 0) {
                 left++;
             }
             max = Math.max(max, right - left + 1);
