@@ -35,6 +35,7 @@ LeetCode Solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -58,6 +59,7 @@ LeetCode Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -141,4 +143,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
