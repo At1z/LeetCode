@@ -155,4 +155,12 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
