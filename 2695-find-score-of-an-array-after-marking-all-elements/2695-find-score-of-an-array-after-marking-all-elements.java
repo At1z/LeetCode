@@ -11,9 +11,9 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             minHeap.add(new int[] { nums[i], i });
         }
-
         while (!minHeap.isEmpty()) {
             int[] element = minHeap.remove();
+            //System.out.println(Arrays.toString(element));
             int number = element[0];
             int index = element[1];
             if (!visited[index]) {
