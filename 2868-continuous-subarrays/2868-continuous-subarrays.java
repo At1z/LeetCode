@@ -1,26 +1,21 @@
 class Solution {
     public long continuousSubarrays(int[] nums) {
-        long res = 0;
-        int l = 0;
-        int r = 0;
-        int minVal = nums[0];
-        int maxVal = nums[0]; 
-
-        while (r < nums.length) {
-            minVal = Math.min(minVal, nums[r]);
-            maxVal = Math.max(maxVal, nums[r]);
-            while (maxVal - minVal > 2) {
-                l++;
-                minVal = nums[l];
-                maxVal = nums[l];
-                for (int i = l; i <= r; i++) {
-                    minVal = Math.min(minVal, nums[i]);
-                    maxVal = Math.max(maxVal, nums[i]);
+        TreeMap<Integer, Integer> freq = new TreeMap<>();
+        int left = 0, right = 0;
+        int n = nums.length;
+        long count = 0; 
+        while (right < n) {
+            freq.put(nums[right], freq.getOrDefault(nums[right], 0) + 1);
+            while (freq.lastEntry().getKey() - freq.firstEntry().getKey() > 2) {
+                freq.put(nums[left], freq.get(nums[left]) - 1);
+                if (freq.get(nums[left]) == 0) {
+                    freq.remove(nums[left]);
                 }
+                left++;
             }
-            res += r - l + 1;
-            r++;
+            count += right - left + 1;
+            right++;
         }
-        return res;
+        return count;
     }
 }
