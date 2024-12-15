@@ -19,7 +19,8 @@ class Solution {
         }
         return totalAverage / classes.length;
 
-    }    private double gain(int passed, int total) {
+    }
+    public double gain(int passed, int total) {
         double currentRatio = (double) passed / total;
         double newRatio = (double) (passed + 1) / (total + 1);
         return newRatio - currentRatio;
