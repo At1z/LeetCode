@@ -11,7 +11,6 @@ class Solution {
             int[] temp = minHeap.poll();
             nums[temp[1]] = temp[0]*multiplier;
             minHeap.add(new int[]{temp[0]*multiplier,temp[1]});
-
             k -= 1;
         }
         return nums;
