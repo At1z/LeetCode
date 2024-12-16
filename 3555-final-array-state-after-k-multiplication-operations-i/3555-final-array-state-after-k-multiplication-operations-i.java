@@ -9,14 +9,11 @@ class Solution {
         }
         while(k > 0){
             int[] temp = minHeap.poll();
+            nums[temp[1]] = temp[0]*multiplier;
             minHeap.add(new int[]{temp[0]*multiplier,temp[1]});
+
             k -= 1;
         }
-        for(int i = 0; i < nums.length; i++){
-            int[] temp = minHeap.poll();
-            nums[temp[1]] = temp[0];
-        }
-
         return nums;
     }
 }
