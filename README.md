@@ -17,6 +17,7 @@ LeetCode Solution
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/At1z/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/At1z/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -153,6 +154,7 @@ LeetCode Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/At1z/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/At1z/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
