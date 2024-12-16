@@ -87,6 +87,7 @@ LeetCode Solution
 | ------- |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/At1z/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -115,6 +116,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/At1z/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -144,6 +146,7 @@ LeetCode Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
