@@ -198,6 +198,7 @@ LeetCode Solution
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/At1z/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/At1z/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -211,4 +212,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/At1z/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/At1z/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/At1z/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
