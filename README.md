@@ -220,4 +220,12 @@ LeetCode Solution
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/At1z/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/At1z/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/At1z/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
