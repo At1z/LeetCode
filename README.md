@@ -18,6 +18,7 @@ LeetCode Solution
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1319-unique-number-of-occurrences](https://github.com/At1z/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -117,6 +118,7 @@ LeetCode Solution
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -145,6 +147,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
+| [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/At1z/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/At1z/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -232,9 +235,11 @@ LeetCode Solution
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/At1z/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/At1z/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
