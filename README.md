@@ -49,6 +49,7 @@ LeetCode Solution
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
@@ -79,6 +80,7 @@ LeetCode Solution
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -186,11 +188,13 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
