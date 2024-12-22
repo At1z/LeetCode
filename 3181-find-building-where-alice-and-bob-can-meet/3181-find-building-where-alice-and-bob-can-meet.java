@@ -67,31 +67,28 @@ class Solution {
         return ans;
     }
 }
-// TLE 944/951
-/*class Solution {
+// TLE 945/951
+/*
+class Solution {
     public int[] leftmostBuildingQueries(int[] heights, int[][] queries) {
         int[] res = new int[queries.length];
         Arrays.fill(res, -1);
         int index = 0; 
         int n = heights.length;
-
+        Map<String, Integer> cache = new HashMap<>();
         while (index < queries.length) {
-            int a = Math.min(queries[index][0],queries[index][1]);
-            int b = Math.max(queries[index][0],queries[index][1]);
-            if (a == b) {
-                res[index] = a; 
-                index += 1; 
+            int a = Math.min(queries[index][0], queries[index][1]);
+            int b = Math.max(queries[index][0], queries[index][1]);
+            String key = a + "," + b;
+            if (cache.containsKey(key)) {
+                res[index] = cache.get(key);
+                index += 1;
                 continue;
             }
-            boolean[] reachA = new boolean[n];
-            for (int i = a; i < n; i++) {
-                if (heights[a] < heights[i]) {
-                    reachA[i] = true;
-                }
-            }
-            for (int j = b; j < n; j++) {
-                if (reachA[j] && heights[b] < heights[j] || reachA[b] == true) {
-                    res[index] = j;
+            for (int i = b; i < n; i++) {
+                if (a == b || heights[a] < heights[b] || (heights[a] < heights[i] && heights[b] < heights[i]) ) {
+                    res[index] = i;
+                    cache.put(key, i);
                     break;
                 }
             }
