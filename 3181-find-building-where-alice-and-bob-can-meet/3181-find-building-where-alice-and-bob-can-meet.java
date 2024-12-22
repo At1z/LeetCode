@@ -1,64 +1,100 @@
 class Solution {
+
     public int[] leftmostBuildingQueries(int[] heights, int[][] queries) {
-        int n = heights.length;
-        int q = queries.length;
-        int[] res = new int[q];
-        
-        // Process queries and store indices to handle them in order
-        List<int[]>[] queryList = new List[n];
-        for (int i = 0; i < n; i++) {
-            queryList[i] = new ArrayList<>();
+        List<Pair<Integer, Integer>> monoStack = new ArrayList<>();
+        int[] result = new int[queries.length];
+        Arrays.fill(result, -1);
+        List<List<Pair<Integer, Integer>>> newQueries = new ArrayList<>(
+            heights.length
+        );
+
+        for (int i = 0; i < heights.length; i++) {
+            newQueries.add(new ArrayList<>());
         }
-        
-        // Group queries by their maximum position
-        for (int i = 0; i < q; i++) {
-            int a = Math.min(queries[i][0], queries[i][1]);
-            int b = Math.max(queries[i][0], queries[i][1]);
-            
-            // Handle special case when same index
-            if (a == b) {
-                res[i] = b;
-                continue;
+
+        for (int i = 0; i < queries.length; i++) {
+            int a = queries[i][0];
+            int b = queries[i][1];
+            if (a > b) {
+                int temp = a;
+                a = b;
+                b = temp;
             }
-            
-            // If right building is taller than left building
-            if (heights[b] > heights[a]) {
-                res[i] = b;
-                continue;
+            if (heights[b] > heights[a] || a == b) {
+                result[i] = b;
+            } else {
+                newQueries.get(b).add(new Pair<>(heights[a], i));
             }
-            
-            queryList[b].add(new int[]{a, i}); // store original query index
         }
-        
-        // Use TreeMap to store future buildings (height -> index)
-        TreeMap<Integer, Integer> futureBuildings = new TreeMap<>();
-        
-        // Process from right to left
-        for (int i = n - 1; i >= 0; i--) {
-            // Add current building to future buildings
-            while (!futureBuildings.isEmpty() && 
-                   futureBuildings.firstKey() <= heights[i]) {
-                futureBuildings.pollFirstEntry();
-            }
-            futureBuildings.put(heights[i], i);
-            
-            // Process queries where b == i
-            for (int[] query : queryList[i]) {
-                int a = query[0];
-                int queryIndex = query[1];
-                
-                // Need to find building higher than both a and i
-                int requiredHeight = Math.max(heights[a], heights[i]) + 1;
-                Map.Entry<Integer, Integer> entry = futureBuildings.ceilingEntry(requiredHeight);
-                
-                if (entry != null) {
-                    res[queryIndex] = entry.getValue();
-                } else {
-                    res[queryIndex] = -1;
+
+        for (int i = heights.length - 1; i >= 0; i--) {
+            int monoStackSize = monoStack.size();
+            for (Pair<Integer, Integer> pair : newQueries.get(i)) {
+                int position = search(pair.getKey(), monoStack);
+                if (position < monoStackSize && position >= 0) {
+                    result[pair.getValue()] = monoStack
+                        .get(position)
+                        .getValue();
                 }
             }
+
+            while (
+                !monoStack.isEmpty() &&
+                monoStack.get(monoStack.size() - 1).getKey() <= heights[i]
+            ) {
+                monoStack.remove(monoStack.size() - 1);
+            }
+
+            monoStack.add(new Pair<>(heights[i], i));
         }
-        
+
+        return result;
+    }
+
+    private int search(int height, List<Pair<Integer, Integer>> monoStack) {
+        int left = 0;
+        int right = monoStack.size() - 1;
+        int ans = -1;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (monoStack.get(mid).getKey() > height) {
+                ans = Math.max(ans, mid);
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return ans;
+    }
+}
+// TLE 945/951
+/*
+class Solution {
+    public int[] leftmostBuildingQueries(int[] heights, int[][] queries) {
+        int[] res = new int[queries.length];
+        Arrays.fill(res, -1);
+        int index = 0; 
+        int n = heights.length;
+        Map<String, Integer> cache = new HashMap<>();
+        while (index < queries.length) {
+            int a = Math.min(queries[index][0], queries[index][1]);
+            int b = Math.max(queries[index][0], queries[index][1]);
+            String key = a + "," + b;
+            if (cache.containsKey(key)) {
+                res[index] = cache.get(key);
+                index += 1;
+                continue;
+            }
+            for (int i = b; i < n; i++) {
+                if (a == b || heights[a] < heights[b] || (heights[a] < heights[i] && heights[b] < heights[i]) ) {
+                    res[index] = i;
+                    cache.put(key, i);
+                    break;
+                }
+            }
+            index += 1;
+        }
         return res;
     }
 }
+*/
