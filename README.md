@@ -49,6 +49,7 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -81,6 +82,7 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/At1z/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -194,6 +196,7 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/At1z/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -201,6 +204,7 @@ LeetCode Solution
 | ------- |
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
