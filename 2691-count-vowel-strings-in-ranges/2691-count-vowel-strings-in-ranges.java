@@ -17,8 +17,7 @@ class Solution {
             int start = queries[i][0];
             int end = queries[i][1];
             res[i] = prefixSum[end] - (start > 0 ? prefixSum[start - 1] : 0);
-        }
-        
+        } 
         return res;
     }
 }
