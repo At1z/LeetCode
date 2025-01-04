@@ -12,6 +12,9 @@ class Solution {
             while(lastIndex > i && c != s.charAt(lastIndex)){
                 lastIndex -= 1;
             }
+            if (lastIndex == i){
+                continue;
+            } 
             Set<String> uniquePalindromes = new HashSet<>();
             for (int j = i + 1; j < lastIndex; j++) {
                 String palindrome = c + "" + s.charAt(j) + c;
