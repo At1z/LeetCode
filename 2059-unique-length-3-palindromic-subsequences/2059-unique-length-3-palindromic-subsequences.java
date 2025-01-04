@@ -8,15 +8,15 @@ class Solution {
                 continue;
             }
             seenCharacters.add(c);
-            int lastIndex = s.lastIndexOf(c);
-            if (lastIndex <= i) {
-                continue;
+            int lastIndex = s.length() - 1;
+            while(lastIndex > i && c != s.charAt(lastIndex)){
+                lastIndex -= 1;
             }
             Set<String> uniquePalindromes = new HashSet<>();
             for (int j = i + 1; j < lastIndex; j++) {
                 String palindrome = c + "" + s.charAt(j) + c;
                 if (uniquePalindromes.add(palindrome)) {
-                    res++;
+                    res += 1;
                 }
             }
         }
