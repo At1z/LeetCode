@@ -1,33 +1,25 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        Set<Character> letters = new HashSet();
-        for (Character c: s.toCharArray()) {
-            letters.add(c);
-        }
-        
-        int ans = 0;
-        for (Character letter : letters) {
-            int i = -1;
-            int j = 0;
-            
-            for (int k = 0; k < s.length(); k++) {
-                if (s.charAt(k) == letter) {
-                    if (i == -1) {
-                        i = k;
-                    }
-                    
-                    j = k;
+        int res = 0;
+        Set<Character> seenCharacters = new HashSet<>();
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (seenCharacters.contains(c)) {
+                continue;
+            }
+            seenCharacters.add(c);
+            int lastIndex = s.lastIndexOf(c);
+            if (lastIndex <= i) {
+                continue;
+            }
+            Set<String> uniquePalindromes = new HashSet<>();
+            for (int j = i + 1; j < lastIndex; j++) {
+                String palindrome = c + "" + s.charAt(j) + c;
+                if (uniquePalindromes.add(palindrome)) {
+                    res++;
                 }
             }
-            
-            Set<Character> between = new HashSet();
-            for (int k = i + 1; k < j; k++) {
-                between.add(s.charAt(k));
-            }
-            
-            ans += between.size();
         }
-        
-        return ans;
+        return res;
     }
 }
