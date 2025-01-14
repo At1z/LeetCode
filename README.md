@@ -45,6 +45,7 @@ LeetCode Solution
 | [2692-take-gifts-from-the-richest-pile](https://github.com/At1z/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/At1z/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/At1z/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/At1z/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/At1z/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -108,6 +109,7 @@ LeetCode Solution
 | [2300-construct-string-with-repeat-limit](https://github.com/At1z/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/At1z/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
@@ -244,6 +246,7 @@ LeetCode Solution
 | ------- |
 | [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
