@@ -40,6 +40,7 @@ LeetCode Solution
 | [2358-number-of-ways-to-split-array](https://github.com/At1z/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/At1z/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/At1z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/At1z/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/At1z/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/At1z/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -248,6 +249,7 @@ LeetCode Solution
 | [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/At1z/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/At1z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Queue
 |  |
@@ -304,4 +306,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/At1z/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/At1z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
