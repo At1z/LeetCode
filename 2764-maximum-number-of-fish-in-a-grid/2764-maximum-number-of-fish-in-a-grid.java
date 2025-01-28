@@ -30,22 +30,19 @@ class Solution {
         }else{
             return 0;
         }
-        int up = 0;
-        int down = 0;
-        int left = 0;
-        int right = 0;
+
         if(row - 1 >= 0  && visited[row-1][col] > 0){
-            up = dfs(grid, visited, row-1, col);
+            curVal += dfs(grid, visited, row-1, col);
         } // up
         if(row + 1 < grid.length  && visited[row+1][col] > 0){
-            down = dfs(grid, visited, row+1, col);
+            curVal += dfs(grid, visited, row+1, col);
         } // down
         if(col - 1 >= 0  && visited[row][col-1] > 0){
-            left = dfs(grid, visited, row, col-1);
+            curVal += dfs(grid, visited, row, col-1);
         } // left
         if(col + 1 < grid[0].length  && visited[row][col+1] > 0){
-            right = dfs(grid, visited, row, col+1);
+            curVal += dfs(grid, visited, row, col+1);
         } // right
-        return curVal + up + down + right + left;
+        return curVal;
     }
 }
