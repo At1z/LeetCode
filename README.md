@@ -6,6 +6,7 @@ LeetCode Solution
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/At1z/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -71,6 +72,7 @@ LeetCode Solution
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/At1z/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -119,6 +121,7 @@ LeetCode Solution
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -346,6 +349,7 @@ LeetCode Solution
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
