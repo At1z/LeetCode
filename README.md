@@ -25,6 +25,7 @@ LeetCode Solution
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
 | [1025-minimum-cost-for-tickets](https://github.com/At1z/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/At1z/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/At1z/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -74,6 +75,7 @@ LeetCode Solution
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/At1z/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -103,6 +105,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/At1z/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/At1z/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -124,6 +127,7 @@ LeetCode Solution
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -352,6 +356,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/At1z/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
