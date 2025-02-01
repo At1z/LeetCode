@@ -21,6 +21,7 @@ LeetCode Solution
 | ------- |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
@@ -178,6 +179,7 @@ LeetCode Solution
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -216,6 +218,7 @@ LeetCode Solution
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/At1z/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -365,4 +368,8 @@ LeetCode Solution
 | ------- |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/At1z/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
