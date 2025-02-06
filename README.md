@@ -30,6 +30,7 @@ LeetCode Solution
 | [1025-minimum-cost-for-tickets](https://github.com/At1z/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/At1z/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/At1z/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/At1z/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -148,6 +149,7 @@ LeetCode Solution
 | ------- |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/At1z/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/At1z/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/At1z/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -273,6 +275,7 @@ LeetCode Solution
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/At1z/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/At1z/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/At1z/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
