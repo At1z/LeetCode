@@ -1,8 +1,5 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        if(nums.length < 1){
-            return -1;
-        }
         PriorityQueue<Long> pq = new PriorityQueue<>();
         for(long num:nums){
             pq.add(num);
