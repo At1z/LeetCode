@@ -10,7 +10,10 @@ class Solution {
         int res = 0;
         while(!pq.isEmpty()){
             long first = pq.poll();
-            if(pq.size() > 0 && first < k){
+            if(first >= k){
+                break;
+            }
+            if(pq.size() > 0){
                 long second = pq.poll();
                 res += 1;
                 long curAns = Math.min(first,second)* 2 + Math.max(first,second);
