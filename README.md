@@ -343,6 +343,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2448-count-number-of-bad-pairs](https://github.com/At1z/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/At1z/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -412,4 +413,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/At1z/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
