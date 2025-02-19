@@ -210,6 +210,7 @@ LeetCode Solution
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/At1z/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/At1z/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/At1z/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -406,4 +407,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/At1z/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
