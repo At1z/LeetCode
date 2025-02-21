@@ -87,6 +87,7 @@ LeetCode Solution
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/At1z/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -142,6 +143,7 @@ LeetCode Solution
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/At1z/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -159,6 +161,7 @@ LeetCode Solution
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/At1z/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/At1z/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/At1z/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -307,6 +310,7 @@ LeetCode Solution
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/At1z/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -315,6 +319,7 @@ LeetCode Solution
 | [0100-same-tree](https://github.com/At1z/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/At1z/LeetCode/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/At1z/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/At1z/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -354,6 +359,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/At1z/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/At1z/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/At1z/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
