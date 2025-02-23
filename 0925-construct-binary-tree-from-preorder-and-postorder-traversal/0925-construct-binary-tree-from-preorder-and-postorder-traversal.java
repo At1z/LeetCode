@@ -7,9 +7,6 @@ class Solution {
 
     private TreeNode build(int[] preorder, int[] postorder) {
         TreeNode root = new TreeNode(preorder[preIndex++]);
-        System.out.println(preIndex);
-        System.out.println(postIndex);
-        System.out.println("val " + root.val);
         if (root.val != postorder[postIndex]) { 
             root.left = build(preorder, postorder);
         }
