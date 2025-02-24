@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Pair {
     TreeNode node;
     int level;
