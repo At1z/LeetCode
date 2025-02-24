@@ -1,6 +1,18 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-    List<List<String>> res = new ArrayList<>();
+        Map<String, List<String>> map = new HashMap<>();
+        for (String s : strs) {
+            char[] arr = s.toCharArray();
+            Arrays.sort(arr); // Sorting takes O(K log K), where K is the max length of a string
+            String key = new String(arr);
+            map.putIfAbsent(key, new ArrayList<>());
+            map.get(key).add(s);
+        }
+        return new ArrayList<>(map.values());
+      
+        
+        /*
+        List<List<String>> res = new ArrayList<>();
         int[] set = new int[strs.length];
         for(int i = 0; i < strs.length; i++){
             if(set[i] == 1){
@@ -36,5 +48,7 @@ class Solution {
             res.add(cur);
         }
         return res;
+    
+    */
     }
 }
