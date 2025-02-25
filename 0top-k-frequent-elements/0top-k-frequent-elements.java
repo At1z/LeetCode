@@ -8,7 +8,7 @@ class Solution {
         PriorityQueue<Integer> minHeap = new PriorityQueue<>((a, b) -> freq.get(a) - freq.get(b));
 
         for (int num : freq.keySet()) {
-            minHeap.offer(num);  
+            minHeap.add(num);  
             if (minHeap.size() > k) {
                 minHeap.poll();
             }
