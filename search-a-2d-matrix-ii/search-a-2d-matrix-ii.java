@@ -5,10 +5,9 @@ class Solution {
         bfs.add(new int[] {0, 0});
         
         while(!bfs.isEmpty()){
-            
-            for(int i = 0; i < bfs.size(); i++){
+            int n = bfs.size();
+            for(int i = 0; i < n ; i++){
                 int[] cur = bfs.poll();
-                
                 if(cur[0] < 0 ||
                    cur[0] >= matrix.length ||
                    cur[1] < 0 ||
