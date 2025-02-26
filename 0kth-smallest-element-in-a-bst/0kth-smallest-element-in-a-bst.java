@@ -19,7 +19,8 @@ class Solution {
         Queue<TreeNode> bfs = new LinkedList<>();
         bfs.add(root);
         while(!bfs.isEmpty()){
-            for(int i = 0; i < bfs.size(); i++){
+            int size = bfs.size();
+            for(int i = 0; i < size ; i++){
                 TreeNode cur = bfs.poll();
                 res.add(cur.val);
                 if(cur.left != null){
