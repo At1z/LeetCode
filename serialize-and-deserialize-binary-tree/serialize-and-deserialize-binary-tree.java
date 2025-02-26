@@ -10,7 +10,7 @@
 public class Codec {
 
     public String serialize(TreeNode root) {
-        if (root == null) return ""; //
+        if (root == null) return ""; 
 
         StringBuilder sb = new StringBuilder();
         Queue<TreeNode> bfs = new LinkedList<>();
@@ -45,7 +45,6 @@ public class Codec {
 
         while (!bfs.isEmpty()) {
             TreeNode cur = bfs.poll();
-            if (cur == null) continue;
 
             if (index < tree.length && !tree[index].equals("null")) {
                 cur.left = new TreeNode(Integer.parseInt(tree[index]));
