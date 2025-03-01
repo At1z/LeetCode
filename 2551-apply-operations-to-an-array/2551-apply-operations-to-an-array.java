@@ -23,8 +23,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(num);
-        System.out.println(zero);
         int index = 0;
         while(!num.isEmpty()){
             nums[index++] = num.poll();
