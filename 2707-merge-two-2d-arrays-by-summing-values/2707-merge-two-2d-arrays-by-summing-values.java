@@ -8,7 +8,7 @@ class Solution {
 
         while (p1 <= n1 && p2 <= n2) {
             if (nums1[p1][0] == nums2[p2][0]) {
-                merge.add(new int[]{nums1[p1][0], nums1[p1][1] + nums2[p2][1]}); // Fixed the issue
+                merge.add(new int[]{nums1[p1][0], nums1[p1][1] + nums2[p2][1]}); 
                 p1 += 1;
                 p2 += 1;
             } else if (nums1[p1][0] < nums2[p2][0]) {
