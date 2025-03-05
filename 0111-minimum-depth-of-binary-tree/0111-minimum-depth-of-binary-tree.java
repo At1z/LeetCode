@@ -18,19 +18,19 @@ class Solution {
         if(root == null){
             return 0;
         }
-        return min(root);
+        return min(root, 1);
     }
 
-    public int min(TreeNode root){
+    public int min(TreeNode root, int step){
         if(root == null){
             return Integer.MAX_VALUE;
         }
         if(root.right == null && root.left == null){
-            return 1;
+            return step;
         }
-        int left = min(root.left);
-        int right = min(root.right);
+        int left = min(root.left, step + 1);
+        int right = min(root.right, step + 1);
 
-        return Math.min(left,right) + 1;
+        return Math.min(left,right);
     }
 }
