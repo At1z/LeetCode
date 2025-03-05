@@ -24,6 +24,7 @@ LeetCode Solution
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
@@ -307,6 +308,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/At1z/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
