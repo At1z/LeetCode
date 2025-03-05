@@ -19,14 +19,17 @@ class Solution {
             return root;
         }
         TreeNode newRoot = new TreeNode(root.val);
-        newRoot.left = new TreeNode(root.right.val);
-        leftSide(root.right, newRoot.left);
-        newRoot.right = new TreeNode(root.left.val);
-        rightSide(root.left, newRoot.right);
+        if(root.right != null){
+            newRoot.left = new TreeNode(root.right.val);
+            leftSide(root.right, newRoot.left);
+        }
+        if(root.left != null){
+            newRoot.right = new TreeNode(root.left.val);
+            rightSide(root.left, newRoot.right);
+        }
         return newRoot;
     }
     public void leftSide(TreeNode toor, TreeNode newRoot){
-        System.out.println(toor.val);
         if(toor.right != null){
             newRoot.left = new TreeNode(toor.right.val);
             leftSide(toor.right, newRoot.left);
@@ -38,7 +41,6 @@ class Solution {
     }
 
     public void rightSide(TreeNode toor, TreeNode newRoot){
-        System.out.println(toor.val);
         if(toor.left != null){
             newRoot.right = new TreeNode(toor.left.val);
             rightSide(toor.left, newRoot.right);
