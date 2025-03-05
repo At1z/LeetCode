@@ -5,11 +5,7 @@ class Solution {
         if(numRows == 1){
             return res;
         }
-        res.add(new ArrayList<>(Arrays.asList(1,1)));
-        if(numRows == 2){
-            return res;
-        }
-        for(int i = 2; i < numRows; i++){
+        for(int i = 1; i < numRows; i++){
             List<Integer> last = res.get(i-1);
             List<Integer> cur = new ArrayList<>();
             cur.add(1);
