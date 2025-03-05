@@ -251,6 +251,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
@@ -420,6 +421,7 @@ LeetCode Solution
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
