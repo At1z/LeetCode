@@ -85,6 +85,7 @@ LeetCode Solution
 | [2868-continuous-subarrays](https://github.com/At1z/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/At1z/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/At1z/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/At1z/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/At1z/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/At1z/LeetCode/tree/master/3427-special-array-ii) |
@@ -146,6 +147,7 @@ LeetCode Solution
 | [2685-first-completely-painted-row-or-column](https://github.com/At1z/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -205,6 +207,7 @@ LeetCode Solution
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/At1z/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/At1z/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
@@ -429,6 +432,7 @@ LeetCode Solution
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/At1z/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/At1z/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/At1z/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
