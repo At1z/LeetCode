@@ -6,11 +6,10 @@ class Solution {
                 primes.add(i);
             }
         }
-
         if(primes.size() < 2){
             return new int[]{-1,-1};
         }
-        
+
         int minDist = Integer.MAX_VALUE;
         int prime1 = -1, prime2 = -1;
 
