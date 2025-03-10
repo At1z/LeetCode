@@ -5,11 +5,9 @@ class Solution {
         int l = 0;
         while(l < word.length()){
             int r = l;
-            System.out.println(l + " start " + r);
             while(r < word.length() && isValidChar(word.charAt(r))){
                 freq[word.charAt(r) - 'a']++;
                 if(isValidSequence(freq)){
-                    System.out.println(l + " " + r);
                     res += 1;
                 }
                 r += 1;
@@ -21,7 +19,6 @@ class Solution {
                 l += 1;
             }
             l = tempL + 1;
-            System.out.println(l + " end " + r); 
             }
             return res;
     }
