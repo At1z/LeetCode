@@ -211,6 +211,7 @@ LeetCode Solution
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/At1z/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +286,7 @@ LeetCode Solution
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/At1z/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/At1z/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -351,6 +353,7 @@ LeetCode Solution
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/At1z/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/At1z/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/At1z/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
 | ------- |
