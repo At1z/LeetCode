@@ -199,6 +199,7 @@ LeetCode Solution
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/At1z/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/At1z/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/At1z/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/At1z/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/At1z/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -272,6 +273,7 @@ LeetCode Solution
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/At1z/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/At1z/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/At1z/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
