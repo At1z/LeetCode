@@ -196,6 +196,7 @@ LeetCode Solution
 | [0141-linked-list-cycle](https://github.com/At1z/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/At1z/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -274,6 +275,7 @@ LeetCode Solution
 | [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/At1z/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
