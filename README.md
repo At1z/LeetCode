@@ -240,6 +240,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/At1z/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/At1z/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -560,4 +561,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/At1z/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/At1z/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
