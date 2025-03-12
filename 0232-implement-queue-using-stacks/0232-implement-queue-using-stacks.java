@@ -1,46 +1,44 @@
 class MyQueue {
-    List<Integer> queue;
-    int size;
+    private Stack<Integer> input;
+    private Stack<Integer> output;
+
     public MyQueue() {
-        queue = new ArrayList<>();
-        size = 0;
+        input = new Stack<>();
+        output = new Stack<>();
     }
-    
+
     public void push(int x) {
-        queue.add(x);
-        size += 1;
+        input.push(x);
     }
-    
+
     public int pop() {
-        if(size > 0){
-            int temp = queue.get(0);
-            queue.remove(0);
-            size -= 1;
-            return temp;
-        }
-        return -1;
+        shiftStacks();
+        return output.pop();
     }
-    
+
     public int peek() {
-        if(size > 0){
-            return queue.get(0);
-        }
-        return -1;
+        shiftStacks();
+        return output.peek();
     }
-    
     public boolean empty() {
-        if(size > 0){
-            return false;
+        return input.isEmpty() && output.isEmpty();
+    }
+
+    private void shiftStacks() {
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
+            }
         }
-        return true;
     }
 }
 
 /**
- * Your MyQueue object will be instantiated and called as such:
+ * Example usage:
  * MyQueue obj = new MyQueue();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.peek();
- * boolean param_4 = obj.empty();
+ * obj.push(1);
+ * obj.push(2);
+ * int param_2 = obj.pop();   // Returns 1
+ * int param_3 = obj.peek();  // Returns 2
+ * boolean param_4 = obj.empty(); // Returns false
  */
