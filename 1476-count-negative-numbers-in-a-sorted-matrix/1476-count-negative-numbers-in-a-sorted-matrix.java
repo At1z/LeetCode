@@ -3,7 +3,6 @@ class Solution {
         int res = 0;
         for(int[] nums:grid){
             res += nums.length - firstNegativeValue(nums);
-            System.out.println(res);
         }
         return res;
     }
