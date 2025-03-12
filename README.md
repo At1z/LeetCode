@@ -26,6 +26,7 @@ LeetCode Solution
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/At1z/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
@@ -194,6 +195,7 @@ LeetCode Solution
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/At1z/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/At1z/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -237,6 +239,7 @@ LeetCode Solution
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/At1z/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -254,6 +257,7 @@ LeetCode Solution
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -425,6 +429,7 @@ LeetCode Solution
 | ------- |
 | [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/At1z/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/At1z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -450,6 +455,7 @@ LeetCode Solution
 | [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/At1z/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
