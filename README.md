@@ -449,6 +449,7 @@ LeetCode Solution
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/At1z/LeetCode/tree/master/0263-ugly-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
