@@ -25,6 +25,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0228-summary-ranges](https://github.com/At1z/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
