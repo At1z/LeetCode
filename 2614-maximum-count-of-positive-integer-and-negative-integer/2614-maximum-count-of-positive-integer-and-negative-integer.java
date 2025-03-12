@@ -2,9 +2,7 @@ class Solution {
     public int maximumCount(int[] nums) {
         int pos = findfirstPositive(nums);
         int neg = findLastNegative(nums) + 1;
-        System.out.println(neg + " " + pos);
-        int res = Math.max(neg, nums.length - pos);
-        return res;
+        return Math.max(neg, nums.length - pos);
     }
     private static int findLastNegative(int[] arr) {
         int left = 0, right = arr.length - 1, result = -1;
