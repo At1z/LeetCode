@@ -417,6 +417,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/At1z/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/At1z/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/At1z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -439,6 +440,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/At1z/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
@@ -472,6 +474,7 @@ LeetCode Solution
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/At1z/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/At1z/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
