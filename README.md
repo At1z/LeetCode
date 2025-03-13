@@ -97,6 +97,7 @@ LeetCode Solution
 | [3483-alternating-groups-ii](https://github.com/At1z/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/At1z/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/At1z/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/At1z/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Breadth-First Search
 |  |
@@ -365,6 +366,7 @@ LeetCode Solution
 | [2465-shifting-letters-ii](https://github.com/At1z/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/At1z/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/At1z/LeetCode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/At1z/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/At1z/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
