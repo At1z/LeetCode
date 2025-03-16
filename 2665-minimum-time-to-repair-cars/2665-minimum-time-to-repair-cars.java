@@ -5,13 +5,13 @@ class Solution {
         long l = 1;
         long r = 0;
         for(int i = 0; i < ranks.length; i++){
-            r = Math.max(r,(long) ranks[i] * ((long)cars* (long)cars));
+            r = Math.max(r,(long)ranks[i] * ((long)cars * (long)cars));
         }
         while(l <= r){
             long mid = l + (r-l)/2;
             long counter = 0;
             for(int i = 0; i < ranks.length; i++){
-                counter += (long) Math.sqrt(((double)mid/ranks[i]));
+                counter += (long)Math.sqrt((mid/ranks[i]));
                 if(counter >= cars){
                     break;
                 }
