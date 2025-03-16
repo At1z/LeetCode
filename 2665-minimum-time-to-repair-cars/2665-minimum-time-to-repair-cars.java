@@ -5,7 +5,7 @@ class Solution {
         long l = 1;
         long r = 0;
         for(int i = 0; i < ranks.length; i++){
-            r = (long)(Math.pow((long)Math.pow(10,6),2)) * 100;
+            r = Math.max(r,(long) ranks[i] * ((long)cars* (long)cars));
         }
         while(l <= r){
             long mid = l + (r-l)/2;
