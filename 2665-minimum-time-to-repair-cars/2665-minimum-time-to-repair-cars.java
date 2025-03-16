@@ -11,7 +11,7 @@ class Solution {
             long mid = l + (r-l)/2;
             long counter = 0;
             for(int i = 0; i < ranks.length; i++){
-                counter += (long)Math.sqrt((mid/ranks[i]));
+                counter += Math.sqrt((mid/ranks[i]));
                 if(counter >= cars){
                     break;
                 }
