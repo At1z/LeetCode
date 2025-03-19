@@ -24,8 +24,8 @@ class Solution {
             }
             l += 1;
         }
-        for(int num: nums){
-            if(num != 1){
+        for(int i = nums.length - 4; i < nums.length; i++){
+            if(i > 0 && nums[i] != 1){
                 return -1;
             }
         }
