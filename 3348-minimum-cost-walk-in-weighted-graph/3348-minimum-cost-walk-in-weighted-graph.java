@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
 
     public int[] minimumCost(int n, int[][] edges, int[][] queries) {
