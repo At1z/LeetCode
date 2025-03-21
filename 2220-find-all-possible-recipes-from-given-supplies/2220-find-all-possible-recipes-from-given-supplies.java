@@ -3,58 +3,58 @@ class Solution {
         List<String> finalProducts = new ArrayList<>();
         int[] canBeDone = new int[recipes.length];
         Set<String> suppliesSet = new HashSet<>(Arrays.asList(supplies));
-        
+        Map<String, Integer> recipeIndexMap = new HashMap<>();
+
+        for (int i = 0; i < recipes.length; i++) {
+            recipeIndexMap.put(recipes[i], i);
+        }
+
         for (int recipe = 0; recipe < recipes.length; recipe++) {
             if (canBeDone[recipe] == 0) {
-                List<String> curIngredients = ingredients.get(recipe);
-                for (String ingredient : curIngredients) {
-                    if (!suppliesSet.contains(ingredient) && !checkInRecipe(ingredient, recipes, suppliesSet, canBeDone, ingredients, new HashSet<>())) {
-                        canBeDone[recipe] = -1;
-                        break;
-                    }   
-                }
-                if (canBeDone[recipe] != -1) {
+                if (checkInRecipe(recipes[recipe], recipeIndexMap, suppliesSet, canBeDone, ingredients, new HashSet<>())) {
                     finalProducts.add(recipes[recipe]);
-                    suppliesSet.add(recipes[recipe]);
-                    canBeDone[recipe] = 1;
                 }
             } else if (canBeDone[recipe] == 1) {
                 finalProducts.add(recipes[recipe]);
-                suppliesSet.add(recipes[recipe]);
             }
         }
         return finalProducts;
     }
 
-    public boolean checkInRecipe(String ingredient, String[] recipes, Set<String> suppliesSet, int[] canBeDone, List<List<String>> ingredients, Set<Integer> visited){
-        int recipeIndex = -1;
-        for (int i = 0; i < recipes.length; i++) {
-            if (recipes[i].equals(ingredient)) {
-                recipeIndex = i;
-                break;
-            }
-        }
-
-        if (recipeIndex == -1 || canBeDone[recipeIndex] == -1 || visited.contains(recipeIndex)){
-            return false;
-        }
-
-        if (canBeDone[recipeIndex] == 1) {
+    public boolean checkInRecipe(String ingredient, Map<String, Integer> recipeIndexMap, Set<String> suppliesSet, int[] canBeDone, List<List<String>> ingredients, Set<String> visiting) {
+        if (suppliesSet.contains(ingredient)) {
             return true;
         }
 
-        visited.add(recipeIndex);
+        if (!recipeIndexMap.containsKey(ingredient)) {
+            return false;
+        }
+
+        int recipeIndex = recipeIndexMap.get(ingredient);
+
+        if (visiting.contains(ingredient)) {
+            return false;
+        }
+
+        if (canBeDone[recipeIndex] == -1) {
+            return false;
+        } else if (canBeDone[recipeIndex] == 1) {
+            return true;
+        }
+
+        visiting.add(ingredient);
         List<String> curIngredients = ingredients.get(recipeIndex);
         for (String ing : curIngredients) {
-            if (!suppliesSet.contains(ing) && !checkInRecipe(ing, recipes, suppliesSet, canBeDone, ingredients, visited)) {
+            if (!suppliesSet.contains(ing) && !checkInRecipe(ing, recipeIndexMap, suppliesSet, canBeDone, ingredients, visiting)) {
                 canBeDone[recipeIndex] = -1;
-                visited.remove(recipeIndex);
+                visiting.remove(ingredient);
                 return false;
             }
         }
-        
+
         canBeDone[recipeIndex] = 1;
-        visited.remove(recipeIndex);
+        suppliesSet.add(ingredient);
+        visiting.remove(ingredient);
         return true;
     }
 }
