@@ -11,6 +11,7 @@ LeetCode Solution
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/At1z/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/At1z/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/At1z/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/At1z/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/At1z/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -66,6 +67,7 @@ LeetCode Solution
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/At1z/LeetCode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/At1z/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -216,6 +218,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/At1z/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/At1z/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/At1z/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/At1z/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -303,6 +306,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/At1z/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/At1z/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/At1z/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -553,6 +557,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/At1z/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/At1z/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Counting Sort
 |  |
