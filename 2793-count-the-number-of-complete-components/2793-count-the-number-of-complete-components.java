@@ -4,7 +4,6 @@ class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
         int res = 0;
         graphBuilder(edges);
-        System.out.println(graph);
         for(int node : graph.keySet()){
             if(seen.contains(node)){
                 continue;
