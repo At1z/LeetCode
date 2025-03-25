@@ -1,8 +1,8 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         Set<Integer> seen = new HashSet<>();
-        char[] ransomFreq = new char[26];
-        char[] magazineFreq = new char[26];
+        int[] ransomFreq = new int[26];
+        int[] magazineFreq = new int[26];
         int curRansomIndex = 0;
         int curMagazineIndex = 0;
         while(curRansomIndex < ransomNote.length() && curMagazineIndex < magazine.length()){
