@@ -215,6 +215,7 @@ LeetCode Solution
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
+| [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/At1z/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -249,6 +250,7 @@ LeetCode Solution
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/At1z/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -304,6 +306,7 @@ LeetCode Solution
 | [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/At1z/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/At1z/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/At1z/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -343,6 +346,7 @@ LeetCode Solution
 | ------- |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/At1z/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/At1z/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
