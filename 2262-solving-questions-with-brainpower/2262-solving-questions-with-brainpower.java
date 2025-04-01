@@ -8,11 +8,9 @@ public class Solution {
         if (index >= questions.length) {
             return 0;
         }
-        
         if (memo.containsKey(index)) {
             return memo.get(index);
-        }
-        
+        } 
         int[] curQuestion = questions[index];
         long take = curQuestion[0] + solve(questions, index + curQuestion[1] + 1, memo);
         long skip = solve(questions, index + 1, memo);
