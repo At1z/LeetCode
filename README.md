@@ -317,6 +317,7 @@ LeetCode Solution
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/At1z/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/At1z/LeetCode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/At1z/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/At1z/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
