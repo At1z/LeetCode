@@ -25,7 +25,7 @@ public:
             res += root->left->val;
         }
         int left = dfs(root->left, res);
-        int right = dfs(root->right, left); 
+        int right = dfs(root->right, res); 
         return  right;
     }
 };
