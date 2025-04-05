@@ -272,6 +272,7 @@ LeetCode Solution
 | ------- |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/At1z/LeetCode/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/At1z/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/At1z/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -520,6 +521,7 @@ LeetCode Solution
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/At1z/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/At1z/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/At1z/LeetCode/tree/master/0441-arranging-coins) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
