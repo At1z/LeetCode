@@ -33,6 +33,7 @@ LeetCode Solution
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/At1z/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -292,6 +293,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/At1z/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
