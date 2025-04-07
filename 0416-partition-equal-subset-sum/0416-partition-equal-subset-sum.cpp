@@ -11,6 +11,7 @@ public:
 
         int target = total / 2;
         int n = nums.size();
+        // Initialize memo table: -1 = not computed, 0 = false, 1 = true
         vector<vector<int>> memo(n, vector<int>(target + 1, -1));
 
         return canFindSubset(nums, 0, 0, target, memo);
