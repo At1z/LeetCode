@@ -39,6 +39,7 @@ LeetCode Solution
 | [0463-island-perimeter](https://github.com/At1z/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/At1z/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/At1z/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -234,6 +235,7 @@ LeetCode Solution
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/At1z/LeetCode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -592,6 +594,7 @@ LeetCode Solution
 | [0094-binary-tree-inorder-traversal](https://github.com/At1z/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/At1z/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/At1z/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/At1z/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/At1z/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -601,6 +604,7 @@ LeetCode Solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/At1z/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3001-apply-operations-to-maximize-score](https://github.com/At1z/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
