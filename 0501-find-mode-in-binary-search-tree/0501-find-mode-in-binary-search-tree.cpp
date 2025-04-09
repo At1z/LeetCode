@@ -25,9 +25,6 @@ public:
         std::map<int,int> frequency;
         std::vector<int> res{0};
         dfs(root, frequency);
-        for(auto& freq: frequency){
-            cout << freq.first << endl;
-        }
         int maxFreq = 0;
         for(auto& freq: frequency){
             if(maxFreq == freq.second){
