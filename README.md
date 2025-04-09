@@ -37,6 +37,7 @@ LeetCode Solution
 | [0416-partition-equal-subset-sum](https://github.com/At1z/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/At1z/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/At1z/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/At1z/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
