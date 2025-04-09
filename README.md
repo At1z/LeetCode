@@ -504,6 +504,7 @@ LeetCode Solution
 | [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/At1z/LeetCode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/At1z/LeetCode/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/At1z/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/At1z/LeetCode/tree/master/2509-minimize-xor) |
