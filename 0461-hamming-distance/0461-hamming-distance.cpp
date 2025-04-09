@@ -2,6 +2,7 @@ class Solution {
 public:
     int hammingDistance(int x, int y) {
         int diff = x ^ y; 
+        cout << diff << endl;
         int count = 0;
         while (diff > 0) {
             count += diff & 1; 
