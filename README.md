@@ -370,6 +370,7 @@ LeetCode Solution
 | [2691-count-vowel-strings-in-ranges](https://github.com/At1z/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/At1z/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/At1z/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/At1z/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/At1z/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
@@ -426,6 +427,7 @@ LeetCode Solution
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/At1z/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/At1z/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/At1z/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -567,6 +569,7 @@ LeetCode Solution
 | [3001-apply-operations-to-maximize-score](https://github.com/At1z/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/At1z/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/At1z/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/At1z/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
