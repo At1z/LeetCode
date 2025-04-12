@@ -345,6 +345,7 @@ LeetCode Solution
 | [0459-repeated-substring-pattern](https://github.com/At1z/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/At1z/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/At1z/LeetCode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/At1z/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/At1z/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
