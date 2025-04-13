@@ -565,6 +565,7 @@ LeetCode Solution
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [2050-count-good-numbers](https://github.com/At1z/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/At1z/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/At1z/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/At1z/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -602,6 +603,7 @@ LeetCode Solution
 | [0206-reverse-linked-list](https://github.com/At1z/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/At1z/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/At1z/LeetCode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/At1z/LeetCode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
