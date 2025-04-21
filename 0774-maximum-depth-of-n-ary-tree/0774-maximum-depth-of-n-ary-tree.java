@@ -25,12 +25,11 @@ class Solution {
         return dfs(root,1);
     }
     public int dfs(Node root, int level){
-        List<Node> curNodeList = root.children;
-        if(curNodeList.size() == 0){
+        if(root.children.size() == 0){
             return level;
         }
         int maxLevel = 0;
-        for(Node child : curNodeList){
+        for(Node child : root.children){
             maxLevel = Math.max(maxLevel, dfs(child,level + 1));
         }
 
