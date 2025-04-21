@@ -20,7 +20,6 @@ class Solution {
         }
         List<String> res = new ArrayList<>();
         backtracking(root, new StringBuilder(), res);
-        System.out.println(res);
         Collections.sort(res);
         return res.get(0);
     }
