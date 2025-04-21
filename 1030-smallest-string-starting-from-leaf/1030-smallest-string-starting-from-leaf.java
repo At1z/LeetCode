@@ -20,8 +20,7 @@ class Solution {
         }
         List<String> res = new ArrayList<>();
         backtracking(root, new StringBuilder(), res);
-        Collections.sort(res);
-        return res.get(0);
+        return res.stream().sorted().findFirst().get();
     }
     public void backtracking(TreeNode root, StringBuilder curWord, List<String> res){
         curWord.append((char) ('a' + root.val));
