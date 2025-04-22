@@ -10,7 +10,6 @@ class Solution {
                 frequencyMap.put(nums[r], frequencyMap.getOrDefault(nums[r],0) + 1);
                 r += 1;
             }
-            System.out.println(r);
             List<Map.Entry<Integer, Integer>> sortedByFrequency = new ArrayList<>(frequencyMap.entrySet());
             sortedByFrequency = sortedByFrequency.stream()
                 .sorted(Comparator
