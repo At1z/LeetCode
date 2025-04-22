@@ -18,7 +18,6 @@ class Solution {
                     .thenComparing(Map.Entry<Integer, Integer>::getKey, Comparator.reverseOrder())
                 )
                 .collect(Collectors.toList());
-            System.out.println(sortedByFrequency);
             if(sortedByFrequency.size() < x){
                 for(int i = 0; i < sortedByFrequency.size(); i++){
                     res[index] += sortedByFrequency.get(i).getKey() * sortedByFrequency.get(i).getValue();
