@@ -8,7 +8,7 @@ class Solution {
                 curSum += temp%10;
                 temp /= 10;
             }
-            sumGroup[curSum-1] += 1;
+            sumGroup[curSum] += 1;
         }
         int max = Arrays.stream(sumGroup).max().orElse(0);
 
