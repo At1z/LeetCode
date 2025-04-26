@@ -32,6 +32,7 @@ LeetCode Solution
 | [0228-summary-ranges](https://github.com/At1z/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/At1z/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/At1z/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/At1z/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -312,6 +313,7 @@ LeetCode Solution
 | ------- |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/At1z/LeetCode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/At1z/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/At1z/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/At1z/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -441,6 +443,7 @@ LeetCode Solution
 | ------- |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/At1z/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/At1z/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
