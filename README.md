@@ -134,6 +134,7 @@ LeetCode Solution
 | [3639-zero-array-transformation-i](https://github.com/At1z/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/At1z/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/At1z/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/At1z/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Breadth-First Search
 |  |
 | ------- |
