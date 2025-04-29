@@ -7,24 +7,6 @@ class Solution {
         for(int num : nums){
             max = Math.max(max,num);
         }
-        /*
-        while(r < nums.length){
-            while(r < nums.length && maxFrequency < k){
-                if(nums[r] == max){
-                    maxFrequency += 1;
-                }
-                r += 1;
-            }
-            if(maxFrequency == k){
-                System.out.println(l + " " + (r) + " " + maxFrequency);
-                res += nums.length - r + 1;
-            }
-            if(nums[l] == max){
-                maxFrequency -= 1;
-            }
-            l += 1;
-        }
-        */
         for(int l = 0; l < nums.length; l++){
             while(r < nums.length && maxFrequency < k){
                 if(nums[r] == max){
@@ -33,7 +15,6 @@ class Solution {
                 r += 1;
             }
             if(maxFrequency == k){
-                System.out.println(l + " " + (r) + " " + maxFrequency);
                 res += nums.length - r + 1;
             }
             if(nums[l] == max){
