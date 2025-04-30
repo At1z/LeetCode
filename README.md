@@ -57,6 +57,7 @@ LeetCode Solution
 | [1364-tuple-with-same-product](https://github.com/At1z/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/At1z/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -611,6 +612,7 @@ LeetCode Solution
 | [0441-arranging-coins](https://github.com/At1z/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/At1z/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/At1z/LeetCode/tree/master/0507-perfect-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/At1z/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/At1z/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
