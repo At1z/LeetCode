@@ -1,12 +1,12 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int evenDigits = 0;
+        int numbersWithEvenDigits = 0;
         for(int num : nums){
             if(hasEvenDigits(num)){
-                evenDigits += 1;
+                numbersWithEvenDigits += 1;
             }
         }
-        return evenDigits;
+        return numbersWithEvenDigits;
     }
 
     public boolean hasEvenDigits(int num){
