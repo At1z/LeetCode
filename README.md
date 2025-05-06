@@ -77,6 +77,7 @@ LeetCode Solution
 | [1927-maximum-ascending-subarray-sum](https://github.com/At1z/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/At1z/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/At1z/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/At1z/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/At1z/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/At1z/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -438,6 +439,7 @@ LeetCode Solution
 | [0412-fizz-buzz](https://github.com/At1z/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/At1z/LeetCode/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/At1z/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/At1z/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/At1z/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/At1z/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
