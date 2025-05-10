@@ -17,6 +17,7 @@ class Solution {
                 zeroInNums2 += 1;
             }
         }
+        
         if(sumInNums1 == sumInNums2 && zeroInNums1 == zeroInNums2){
             return sumInNums1 + zeroInNums1;
 
