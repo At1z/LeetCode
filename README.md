@@ -28,6 +28,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/At1z/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -315,6 +316,7 @@ LeetCode Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/At1z/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/At1z/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
@@ -359,6 +361,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/At1z/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
