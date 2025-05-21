@@ -28,6 +28,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/At1z/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/At1z/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
@@ -204,6 +205,7 @@ LeetCode Solution
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/At1z/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/At1z/LeetCode/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
@@ -271,6 +273,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/At1z/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/At1z/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/At1z/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/At1z/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
