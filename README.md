@@ -36,6 +36,7 @@ LeetCode Solution
 | [0228-summary-ranges](https://github.com/At1z/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/At1z/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/At1z/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/At1z/LeetCode/tree/master/0414-third-maximum-number) |
@@ -206,6 +207,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/At1z/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/At1z/LeetCode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/At1z/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/At1z/LeetCode/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/At1z/LeetCode/tree/master/0854-making-a-large-island) |
@@ -469,6 +471,7 @@ LeetCode Solution
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/At1z/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/At1z/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/At1z/LeetCode/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/At1z/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
