@@ -149,6 +149,7 @@ LeetCode Solution
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/At1z/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/At1z/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/At1z/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/At1z/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/At1z/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/At1z/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Breadth-First Search
@@ -203,6 +204,7 @@ LeetCode Solution
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/At1z/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/At1z/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/At1z/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/At1z/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -388,6 +390,7 @@ LeetCode Solution
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/At1z/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/At1z/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/At1z/LeetCode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/At1z/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
 | ------- |
@@ -468,6 +471,7 @@ LeetCode Solution
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/At1z/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/At1z/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/At1z/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -530,6 +534,7 @@ LeetCode Solution
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/At1z/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/At1z/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/At1z/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/At1z/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
