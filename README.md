@@ -184,6 +184,7 @@ LeetCode Solution
 | [2793-count-the-number-of-complete-components](https://github.com/At1z/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/At1z/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/At1z/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/At1z/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -273,6 +274,7 @@ LeetCode Solution
 | [2793-count-the-number-of-complete-components](https://github.com/At1z/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/At1z/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/At1z/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/At1z/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -600,6 +602,7 @@ LeetCode Solution
 | [2564-most-profitable-path-in-a-tree](https://github.com/At1z/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/At1z/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/At1z/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/At1z/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
