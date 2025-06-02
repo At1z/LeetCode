@@ -34,6 +34,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/At1z/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/At1z/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/At1z/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/At1z/LeetCode/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/At1z/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/At1z/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/At1z/LeetCode/tree/master/0283-move-zeroes) |
@@ -469,6 +470,7 @@ LeetCode Solution
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/At1z/LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/At1z/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/At1z/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
