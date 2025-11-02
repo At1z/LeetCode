@@ -14,11 +14,6 @@ class Solution {
                     leftDirCars = 0;
                     lastStayingCar = i;
                 }
-                if(leftDirCars == 0 && lastStayingCar == i){
-                    collisionCounter += rightDirCars;
-                    lastStayingCar = i;
-                    rightDirCars = 0;
-                }
             }else if(directionsTab[i] == 'L'){
                 leftDirCars += 1;
                 if(rightDirCars > 0){
