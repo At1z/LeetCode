@@ -33,7 +33,6 @@ class Solution {
                 frequencyMap.put(nums[l], count);
             }
             l+= 1;
-            System.out.println(l);
             index += 1;
         }
         return res;
