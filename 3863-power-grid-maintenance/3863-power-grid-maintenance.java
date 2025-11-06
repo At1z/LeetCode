@@ -3,6 +3,8 @@ class Solution {
     Map<Integer,List<Integer>> edges = new HashMap<>();
     public int[] processQueries(int c, int[][] connections, int[][] queries) {
         List<Integer> result = new ArrayList<>();
+        boolean[] online = new boolean[c + 1];
+        Arrays.fill(online, true);
         parents = new int[c+1];
 
         for(int i = 1; i <= c; i++){
@@ -19,64 +21,41 @@ class Solution {
 
         //System.out.println(Arrays.toString(parents));
 
-        boolean[] online = new boolean[c + 1];
-        int[] offlineCounts = new int[c + 1];
-        Arrays.fill(online, true);
-        Map<Integer, Integer> minimumOnlineStations = new HashMap<>();
-        for (int[] q : queries) {
-            int op = q[0];
-            int x = q[1];
-            if (op == 2) {
+        Map<Integer, PriorityQueue<Integer>> componentHeap = new HashMap<>();
+        for (int station = 1; station <= c; station++) {
+            int root = find(station);
+            componentHeap.putIfAbsent(root, new PriorityQueue<>());
+            componentHeap.get(root).offer(station);
+        }
+
+
+        for (int[] query : queries) {
+            int type = query[0], x = query[1];
+
+            if (type == 2) {
                 online[x] = false;
-                offlineCounts[x]++;
-            }
-        }
-
-        //System.out.println(Arrays.toString(online));
-        for (int i = 1; i <= c; i++) {
-            int root = find(i);
-            if (!minimumOnlineStations.containsKey(root)) {
-                minimumOnlineStations.put(root, -1);
-            }
-            int station = minimumOnlineStations.get(root);
-            if (online[i]) {
-                if (station == -1 || station > i) {
-                    minimumOnlineStations.put(root, i);
-                }
-            }
-        }
-        //System.out.println(minimumOnlineStations);
-        
-        for (int i = queries.length - 1; i >= 0; i--) {
-            int op = queries[i][0];
-            int x = queries[i][1];
-            int root = find(x);
-            int station = minimumOnlineStations.get(root);
-
-            if (op == 1) {
+            } else {
                 if (online[x]) {
                     result.add(x);
                 } else {
-                    result.add(station);
-                }
-            }
+                    int root = find(x);
+                    PriorityQueue<Integer> heap = componentHeap.get(root);
 
-            if (op == 2) {
-                if (offlineCounts[x] > 1) {
-                    offlineCounts[x]--;
-                } else {
-                    online[x] = true;
-                    if (station == -1 || station > x) {
-                        minimumOnlineStations.put(root, x);
+                    while (heap != null && !heap.isEmpty() && !online[heap.peek()]) {
+                        heap.poll();
                     }
+
+                    result.add((heap == null || heap.isEmpty()) ? -1 : heap.peek());
                 }
             }
         }
-        Collections.reverse(result);
-        //System.out.println(result);
-        return result.stream().mapToInt(Integer::intValue).toArray();
-    }
 
+        int[] ans = new int[result.size()];
+        for (int i = 0; i < result.size(); i++) {
+            ans[i] = result.get(i);
+        }
+    return ans;
+    }
     private int find(int x){
         if(x != parents[x]){
             x = find(parents[x]);
