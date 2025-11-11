@@ -1,32 +1,30 @@
 class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
         int[][] dp = new int[m + 1][n + 1]; 
-
-        for (String s : strs) {
-            int zeros = 0;
-            int ones = 0;
-            //System.out.println("-------------------");
-            //System.out.println(s);
-            //System.out.println();
-
-            for (char c : s.toCharArray()) {
-                if (c == '0') zeros++;
-                else ones++;
-            }
-            //System.out.println("0: " + zeros + ", 1: " + ones);
-            for (int i = m; i >= zeros; i--) {
-                for (int j = n; j >= ones; j--) {
-                    //System.out.println("dp[" + i + "][" + j + "]: " + dp[i][j]);
-                    //System.out.println("dp[" + (i - zeros) + "][" + (j - ones + 1) + "]: " + (dp[i - zeros][j - ones] + 1)); 
-                    dp[i][j] = Math.max(dp[i][j], dp[i - zeros][j - ones] + 1);
-                    //System.out.println("dp[" + i + "][" + j + "]: " + dp[i][j]);
-                    //System.out.println();
-
+        for(String bits : strs){
+            int[] counter = countNumbers(bits);
+            int zeros = counter[0];
+            int ones = counter[1];
+            for(int i = m; i >= zeros; i--){
+                for(int j = n; j >= ones; j--){
+                    dp[i][j] = Math.max(dp[i][j], dp[i-zeros][j-ones] + 1); 
                 }
             }
-
         }
 
         return dp[m][n];
+    }
+
+    private int[] countNumbers(String bits){
+        int zeros = 0;
+        int ones = 0;
+        for(char bit : bits.toCharArray()){
+            if(bit == '1'){
+                ones += 1;
+            }else{
+                zeros += 1;
+            }
+        }
+        return new int[]{zeros,ones};
     }
 }
