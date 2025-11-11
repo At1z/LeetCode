@@ -100,6 +100,7 @@ LeetCode Solution
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/At1z/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/At1z/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/At1z/LeetCode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/At1z/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/At1z/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/At1z/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
