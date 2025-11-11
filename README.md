@@ -48,6 +48,7 @@ LeetCode Solution
 | [0416-partition-equal-subset-sum](https://github.com/At1z/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/At1z/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/At1z/LeetCode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/At1z/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/At1z/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/At1z/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -433,6 +434,7 @@ LeetCode Solution
 | [0412-fizz-buzz](https://github.com/At1z/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/At1z/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/At1z/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/At1z/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/At1z/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/At1z/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/At1z/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -531,6 +533,7 @@ LeetCode Solution
 | [0300-longest-increasing-subsequence](https://github.com/At1z/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/At1z/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/At1z/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/At1z/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/At1z/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/At1z/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
