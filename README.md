@@ -54,6 +54,7 @@ LeetCode Solution
 | [0495-teemo-attacking](https://github.com/At1z/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/At1z/LeetCode/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/At1z/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -311,6 +312,7 @@ LeetCode Solution
 | [0290-word-pattern](https://github.com/At1z/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/At1z/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/At1z/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/At1z/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0768-partition-labels](https://github.com/At1z/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/At1z/LeetCode/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/At1z/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -561,6 +563,7 @@ LeetCode Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/At1z/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/At1z/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -714,6 +717,7 @@ LeetCode Solution
 | [0441-arranging-coins](https://github.com/At1z/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/At1z/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/At1z/LeetCode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/At1z/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/At1z/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/At1z/LeetCode/tree/master/1500-count-largest-group) |
