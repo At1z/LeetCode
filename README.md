@@ -130,6 +130,7 @@ LeetCode Solution
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/At1z/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/At1z/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/At1z/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/At1z/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/At1z/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/At1z/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -726,6 +727,7 @@ LeetCode Solution
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/At1z/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/At1z/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/At1z/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/At1z/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/At1z/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3055-maximum-odd-binary-number](https://github.com/At1z/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/At1z/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -854,6 +856,7 @@ LeetCode Solution
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/At1z/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/At1z/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/At1z/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/At1z/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Interactive
 |  |
