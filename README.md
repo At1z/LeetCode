@@ -73,6 +73,7 @@ LeetCode Solution
 | [1396-count-servers-that-communicate](https://github.com/At1z/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/At1z/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/At1z/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/At1z/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -585,6 +586,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/At1z/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/At1z/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/At1z/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/At1z/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
