@@ -58,6 +58,7 @@ LeetCode Solution
 | [0561-array-partition](https://github.com/At1z/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/At1z/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/At1z/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/At1z/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/At1z/LeetCode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/At1z/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/At1z/LeetCode/tree/master/0792-binary-search) |
