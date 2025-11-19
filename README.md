@@ -94,6 +94,7 @@ LeetCode Solution
 | [1917-maximum-average-pass-ratio](https://github.com/At1z/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/At1z/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/At1z/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/At1z/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/At1z/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2066-add-minimum-number-of-rungs](https://github.com/At1z/LeetCode/tree/master/2066-add-minimum-number-of-rungs) |
@@ -374,6 +375,7 @@ LeetCode Solution
 | [1468-check-if-n-and-its-double-exist](https://github.com/At1z/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/At1z/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/At1z/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/At1z/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2232-adding-spaces-to-a-string](https://github.com/At1z/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/At1z/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/At1z/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -391,6 +393,7 @@ LeetCode Solution
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/At1z/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/At1z/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/At1z/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/At1z/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2164-two-best-non-overlapping-events](https://github.com/At1z/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/At1z/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/At1z/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
