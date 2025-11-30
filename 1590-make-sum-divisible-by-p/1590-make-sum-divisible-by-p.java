@@ -1,37 +1,26 @@
-import java.util.HashMap;
-
 class Solution {
-
     public int minSubarray(int[] nums, int p) {
-        int n = nums.length;
-        int totalSum = 0;
+        long total = 0;
+        for (int num : nums) total += num;
+        
+        long mod = total % p;
+        if (mod == 0) return 0;
 
-        for (int num : nums) {
-            totalSum = (totalSum + num) % p;
-        }
+        Map<Long, Integer> map = new HashMap<>();
+        map.put(0L, -1);
+        long prefix = 0;
+        int res = nums.length;
 
-        int target = totalSum % p;
-        if (target == 0) {
-            return 0;
-        }
+        for (int i = 0; i < nums.length; i++) {
+            prefix = (prefix + nums[i]) % p;
+            long need = (prefix - mod + p) % p;
 
-        HashMap<Integer, Integer> modMap = new HashMap<>();
-        modMap.put(0, -1);
-        int currentSum = 0;
-        int minLen = n;
-
-        for (int i = 0; i < n; ++i) {
-            currentSum = (currentSum + nums[i]) % p;
-
-            int needed = (currentSum - target + p) % p;
-
-            if (modMap.containsKey(needed)) {
-                minLen = Math.min(minLen, i - modMap.get(needed));
+            if (map.containsKey(need)) {
+                res = Math.min(res, i - map.get(need));
             }
-
-            modMap.put(currentSum, i);
+            map.put(prefix, i);
         }
 
-        return minLen == n ? -1 : minLen;
+        return res == nums.length ? -1 : res;
     }
 }
