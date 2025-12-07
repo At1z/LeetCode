@@ -739,6 +739,7 @@ LeetCode Solution
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/At1z/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/At1z/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/At1z/LeetCode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/At1z/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/At1z/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/At1z/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/At1z/LeetCode/tree/master/2037-count-square-sum-triples) |
